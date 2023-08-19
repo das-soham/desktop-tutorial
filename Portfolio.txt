@@ -1,0 +1,11 @@
+Instrument Type Rating Industry MarketValue
+A1 Bond A Media 1926725
+A2 Loan A Retail 8250455
+A3 Bond BB- Service 4055061
+A4 Loan A Media 9103320
+A5 Bond BB HealthCare 2530291
+A6 Bond BB- Insurance 9969612
+A7 Bond C Insurance 6228886
+A8 Bond CCC Insurance 1478277
+A9 Bond BB- Insurance 5420160
+A10 Bond BB Insurance 3094221
